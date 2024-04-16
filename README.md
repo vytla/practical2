@@ -1,6 +1,6 @@
 ## Practical Application 2 - Used Car Price Predection
 
-[Notebook](https://github.com/vytla/practical2/vehicle_analysis.ipynb)
+[Notebook](https://github.com/vytla/practical2/blob/main/vehicle_analysis.ipynb)
 
 
 **OVERVIEW**
